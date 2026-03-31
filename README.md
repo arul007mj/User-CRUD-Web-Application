@@ -18,19 +18,19 @@ The project allows users to perform basic operations such as:
 
  # 🔐 Login Page
  
-  ![image alt]()
+  ![image alt](https://github.com/arul007mj/User-CRUD-Web-Application/blob/c71aeb002d8b7f34763e931f504e11363444e3c3/User_curd/Screenshot%20(26).png)
 
  # 📋 User List Page
  
- ![image alt]()
+ ![image alt](https://github.com/arul007mj/User-CRUD-Web-Application/blob/c71aeb002d8b7f34763e931f504e11363444e3c3/User_curd/Screenshot%20(27).png)
 
  # ➕ Add New User
  
-  ![image alt]()
+  ![image alt](https://github.com/arul007mj/User-CRUD-Web-Application/blob/c71aeb002d8b7f34763e931f504e11363444e3c3/User_curd/Screenshot%20(28).png)
 
  # 🏗️ Project Structure
  
- ![image alt]()
+ ![image alt](https://github.com/arul007mj/User-CRUD-Web-Application/blob/c71aeb002d8b7f34763e931f504e11363444e3c3/User_curd/Screenshot%20(30).png)
 
 # ⚙️ Technologies Used
 
