@@ -112,7 +112,7 @@ CSS files are used for styling UI.
 
 Clone the repository:
 
-* git clone <>
+* git clone <https://github.com/arul007mj/User-CRUD-Web-Application>
 * Import project into IDE (Eclipse recommended)
 * Configure Apache Tomcat Server
 * Set up your database:
@@ -124,6 +124,15 @@ Clone the repository:
 * mvn clean install
 * Run on server:
 Right click → Run on Server
+
+
+# 📜 License
+
+* This project is for learning purposes.
+
+# 👤 Author
+
+# Arulkumaran M
 
 
  
