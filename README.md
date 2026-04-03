@@ -89,7 +89,7 @@ Contains user attributes like:
 * id
 * name
 * email
-* password (if included)
+* password 
 * UserDao.java
   
 # Handles all database operations:
